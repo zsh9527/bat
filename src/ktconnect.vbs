@@ -1,0 +1,1 @@
+createobject("wscript.shell").run "ktctl connect --proxyPort 2223 --namespace dev",0
